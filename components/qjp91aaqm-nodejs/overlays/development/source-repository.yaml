@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qjp91aaqm-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qjp91aaqm-nodejs
